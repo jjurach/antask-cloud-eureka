@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>net.sl8</groupId>
-	<artifactId>antask-config-eureka</artifactId>
+	<artifactId>antask-cloud-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>antask-config-eureka</name>
+	<name>antask-cloud-eureka</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
